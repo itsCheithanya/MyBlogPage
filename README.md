@@ -1,2 +1,2 @@
 # MyBlogPage
-Frontend page of a personnal blogging page 
+Frontend page of a personal blogging page 
